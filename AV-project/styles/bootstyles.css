@@ -1,0 +1,34 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgba(179, 179, 179, 0.37);
+  }
+  
+  li {
+    float: right;
+  }
+  
+  li a {
+    display: block;
+    color: rgb(20, 20, 20);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bolder;
+  }
+  
+  li a:hover {
+    background-color: rgba(230, 230, 230, 0.452);
+  }
+
+body  {
+  background-color:rgb(219, 224, 226)
+}
+
+.customstyle1and2 {
+  font-size:large;
+  font-weight: 900 ;
+}
